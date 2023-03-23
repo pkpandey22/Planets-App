@@ -1,0 +1,21 @@
+.Planet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.PlanetImage {
+  width: 405px;
+  height: 292px;
+}
+.PlanetName {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 22px;
+}
+.PlanetDescription {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 18px;
+  text-align: center;
+}
